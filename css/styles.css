@@ -1,9 +1,8 @@
-.container{
+.container-fluid{
     background-image: url(/images/backgrounds/h_img.jpg);
-    box-sizing: border-box;
     align-content: center;
     text-align: center;
-    margin: 40px;
+    margin: px;
     padding: 10rem;
     color: white;
 }
