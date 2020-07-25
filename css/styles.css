@@ -15,3 +15,18 @@ h1 {
     padding-top: 6rem;
     position: absolute;
 }
+.container-lg {
+    text-align: center;
+    margin-top: 3vw;
+    font-size: 18px;
+    line-height: 3vw;
+}
+.container-fluid-2 {
+    text-align: center;
+    margin-top: 3vw;
+    font-size: 18px;
+    line-height: 3vw;
+    background-image: url(/images/backgrounds/s_image.jpg);
+    color: white;
+    padding: 5rem;
+}
