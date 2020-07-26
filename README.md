@@ -10,7 +10,7 @@ This is a Landing page for Delani studio which is a fictional design studio.
 
 The Landing page is divided into sections detailing the activities of the studio.
 These sections include the heading section containing a welcome message.
-the About us section explaining about the studio, the services section detailing the services offered and 
+the About us section explaining about the studio, the services section detailing the services offered and
 a clickable what we do section with the main activities of the studio.
 
 There is also a detailed portfolio section of the page .
