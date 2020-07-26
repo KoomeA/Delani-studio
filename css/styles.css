@@ -34,10 +34,6 @@ h1 {
     text-align: center;
     color: white;
 }
-.row-1 {
-    background-image: url(/images/backgrounds/c_image.jpg);
-    padding: 2rem;
-}
 .footer {
     text-align: center;
 }
@@ -59,5 +55,11 @@ h1 {
     text-align: center;
     margin: 7px;
 }
-
-
+.container-data{
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 3vw;
+}
+.row {
+    padding: 8px;
+}
