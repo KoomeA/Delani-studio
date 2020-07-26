@@ -44,16 +44,19 @@ h1 {
 }
 #design {
     display: none;
+    text-align: center;
 }
 #dev-hide {
     display: none;
+    text-align: center;
 }
 #product-hide {
     display: none;
+    text-align: center;
 }
 #what {
     text-align: center;
-    margin: 7px;
+    margin-top: 4vw;
 }
 .container-data{
     box-sizing: border-box;
@@ -62,4 +65,14 @@ h1 {
 }
 .row {
     padding: 8px;
+}
+#img-show {
+    text-align: center;
+}
+#dev-show {
+    text-align: center;
+}
+#product-show {
+    text-align: center;
+    
 }
