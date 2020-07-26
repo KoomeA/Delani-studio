@@ -30,3 +30,19 @@ h1 {
     color: white;
     padding: 5rem;
 }
+#mc_embed_signup {
+    text-align: center;
+    color: white;
+}
+.row-1 {
+    background-image: url(/images/backgrounds/c_image.jpg);
+    padding: 2rem;
+}
+.footer {
+    text-align: center;
+}
+#contact {
+    text-align: center;
+    margin-top: 4vw;
+    margin-bottom: 2vw;
+}
