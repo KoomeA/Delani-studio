@@ -8,4 +8,5 @@ $(document).ready(function(){
     $("#product-show").click(function(){
         $("#product-hide").toggle();
     });
+    
 });
