@@ -1,5 +1,5 @@
 .container-fluid {
-    background-image: url(../images/h-img.jpg);
+    background-image: url(/images/backgrounds/h-img.jpg);
     align-content: center;
     text-align: center;
     margin: px;
@@ -22,11 +22,11 @@ h1 {
     line-height: 3vw;
 }
 .container-fluid-2 {
+    background-image: url(/images/backgrounds/s-image.jpg);
     text-align: center;
     margin-top: 3vw;
     font-size: 18px;
     line-height: 3vw;
-    background-image: url(../images/s-image.jpg);
     color: white;
     padding: 5rem;
 }
