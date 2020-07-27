@@ -1,6 +1,9 @@
 .heading {
     background-image: url(/images/backgrounds/h_img.jpg);
 }
+body {
+    background-color: darkolivegreen;
+}
 
 .container-fluid {
     align-content: center;
