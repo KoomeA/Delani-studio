@@ -75,3 +75,77 @@ h1 {
 #product-show {
     text-align: center;
 }
+@media only screen and (min-width: 320px) {
+    .container-fluid {
+        background-image: url(../images/h_img.jpg);
+        align-content: center;
+        text-align: center;
+        margin: 5px;
+        padding: 5rem;
+        color: white;
+        font-size: 18px;
+         
+    }
+    h1 {
+        font-size: 34px;
+        }
+    p {
+        font-size: 20px;
+    }
+    .container-lg {
+        text-align: justify;
+        margin-top: 3vw;
+        font-size: 18px;
+        line-height: 8vw;
+    }
+    .container-fluid-2 {
+        background-image: url(../images/s_image.jpg);
+        text-align: justify;
+        margin-top: 3vw;
+        font-size: 24px;
+        line-height: 8vw;
+        color: white;
+        padding: 2rem;
+    }
+    h2 {
+        text-align: center;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .container-fluid {
+        background-image: url(../images/h_img.jpg);
+        align-content: center;
+        text-align: center;
+        margin: 7px;
+        padding: 6rem;
+        color: white;
+        font-size: 26px;
+         
+    }
+    h1 {
+        font-size: 48px;
+        }
+    p {
+        font-size: 32px;
+    }
+    .container-lg {
+        text-align: justify;
+        margin-top: 3vw;
+        font-size: 18px;
+        line-height: 8vw;
+    }
+    .container-fluid-2 {
+        background-image: url(../images/s_image.jpg);
+        text-align: justify;
+        margin-top: 3vw;
+        font-size: 24px;
+        line-height: 8vw;
+        color: white;
+        padding: 2rem;
+    }
+    h2 {
+        text-align: center;
+        font-size: 42px;
+    }
+
+}
