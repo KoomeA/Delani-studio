@@ -9,4 +9,29 @@ $(document).ready(function(){
         $("#product-hide").toggle();
     });
     
+    $("#first").hover(function(){
+        $("#john").toggle();
+    });
+    $("#second").hover(function(){
+        $("#grade").toggle();
+    });
+    $("#third").hover(function(){
+        $("#mighty").toggle();
+    });
+    $("#fourth").hover(function(){
+        $("#dark").toggle();
+    });
+    $("#fifth").hover(function(){
+        $("#day").toggle();
+    });
+    $("#sixth").hover(function(){
+        $("#volume").toggle();
+    });
+    $("#seventh").hover(function(){
+        $("#burn").toggle();
+    });
+    $("#eighth").hover(function(){
+        $("#coffee").toggle();
+    });
+
 });

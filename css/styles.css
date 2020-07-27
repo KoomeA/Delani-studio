@@ -75,6 +75,41 @@ h1 {
 #product-show {
     text-align: center;
 }
+#john {
+    display: none;
+}
+#grade {
+    display: none;
+}
+#mighty {
+    display: none;
+}
+#dark {
+    display: none;
+}
+#day{
+    display: none;
+}
+#volume {
+    display: none;
+}
+#burn {
+    display: none;
+}
+#coffee {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
 @media only screen and (min-width: 320px) {
     .container-fluid {
         background-image: url(../images/h_img.jpg);
